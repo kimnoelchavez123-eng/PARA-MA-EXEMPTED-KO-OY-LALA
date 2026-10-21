@@ -1,0 +1,18 @@
+body {
+    width: auto;
+    height: auto;
+    border: 1px solid #000;
+    padding: 1%;
+    margin: 2%;
+  }
+  
+.box {
+    width: fit-content;
+    height: auto;
+    border: 2px solid #000;
+    padding: 1%;
+    margin: 2%;
+    background-color: #f0f0f0;
+  }
+
+ 
